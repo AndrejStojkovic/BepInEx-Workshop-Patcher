@@ -42,3 +42,10 @@ Normally, BepInEx only scans the local `BepInEx/plugins` directory for mods. Thi
 * **User Responsibility:** Modding is entirely unsupported by the game developers and Valve. Any modifications you make are done at your own discretion and expense. Always back up your save files and original game directory before adding mods.
 * **Save Corruption & Instability:** Mods can cause crashes, performance drops, broken quests, game updates breaking functionality, or permanent corruption of save data.
 * **Security Warning & Unknown Sources:** BepInEx executes compiled `.dll` code directly on your system with full user permissions. Malicious third parties can package malware, keyloggers, or spyware as game mods. **Never download or run mods from untrusted, obscure, or unverified websites or Discord servers.** Stick strictly to verified sources and reputable modding communities where code is reviewed.
+
+> **Notice & Disclaimer of Ownership:**  
+> I am not the creator or developer of BepInEx. This workshop item is purely an unofficial community installation guide and pointer to help players configure modding for this game. All credit and rights belong to the BepInEx Team.
+
+## Credits & Acknowledgements
+
+* **BepInEx:** Created by the BepInEx Team. Licensed under LGPL-2.1. ([GitHub Repository](https://github.com/BepInEx/BepInEx))
