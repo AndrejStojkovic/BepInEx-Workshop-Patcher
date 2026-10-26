@@ -1,4 +1,4 @@
-# BepInEx-Workshop-Patcher
+# BepInEx Workshop Patcher
 
 The **BepInEx Workshop Patcher** allows you to load mods directly from the Steam Workshop without needing to manually copy files into your `BepInEx/plugins` folder.
 Once this patcher is configured, subscribing to compatible Workshop mods in Steam will automatically make them available in your game.
@@ -24,12 +24,14 @@ Normally, BepInEx only scans the local `BepInEx/plugins` directory for mods. Thi
 
 ---
 
-## Setup Instructions
+## Installation & Setup
 
 1. Make sure BepInEx is already installed and verified working.
 2. Subscribe to this Workshop item.
-3. Follow the instructions included in this item (or place the patcher `.dll` into your `BepInEx/patchers` directory if manual bootstrap is needed for your setup).
-4. Subscribe to any supported Workshop mods and launch the game.
+3. Locate the downloaded patcher file inside your Steam Workshop directory, or if you cannot find it, download the patcher directly from GitHub:  
+   [Direct Download (GitHub Releases)](https://github.com/AndrejStojkovic/BepInEx-Workshop-Patcher/releases/tag/Release)
+4. Place the patcher `.dll` into your game's `BepInEx/patchers` directory.
+5. Subscribe to any supported Workshop mods and launch the game.
 
 ---
 
